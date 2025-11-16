@@ -31,15 +31,6 @@ Click to view:
 
 ---
 
-## 🧠 Explainable AI (XAI)
-
-| Method | Purpose | What It Shows |
-|--------|---------|----------------|
-| **SHAP** (SHapley Additive exPlanations) | Global + local interpretability | Feature contribution, waterfall plots, summary plots |
-| **LIME** (Local Interpretable Model-Agnostic Explanations) | Local interpretability | Top features influencing a single prediction |
-
----
-
 ## 🚀 Project Workflow
 
 ### **1. Data Preprocessing**
@@ -65,7 +56,17 @@ Base learners:
 - Log Loss  
 - Confusion Matrix  
 
+
 ---
+## 🧠 Explainable AI (XAI)
+
+| Method | Purpose | What It Shows |
+|--------|---------|----------------|
+| **SHAP** (SHapley Additive exPlanations) | Global + local interpretability | Feature contribution, waterfall plots, summary plots |
+| **LIME** (Local Interpretable Model-Agnostic Explanations) | Local interpretability | Top features influencing a single prediction |
+
+---
+
 
 ## ▶️ How to Run
 
