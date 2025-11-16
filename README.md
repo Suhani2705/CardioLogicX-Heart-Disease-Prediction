@@ -26,7 +26,7 @@ Click to view:
 | **[`heart.csv`](heart.csv)** | The dataset used for model training |
 | **[`heart_data_analysis.ipynb`](heart_data_analysis.ipynb)** | Exploratory Data Analysis (EDA) |
 | **[`CardioLogicX_HeartDisease_Prediction.ipynb`](CardioLogicX_HeartDisease_Prediction.ipynb)** | ENN + Preprocessing + Stacking Model + LIME + SHAP |
-| **README.md** | Project documentation |
+| **README.md** | Project Overview |
 | **requirements.txt** | List of required Python packages |
 
 ---
